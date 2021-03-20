@@ -30,3 +30,10 @@ Android Application Developer by profession. A Flutter Enthusiast.
 
 <br />
 <br />
+
+**Visitors Count**
+
+<img align="left" src = "https://profile-counter.glitch.me/SoumikBhatt/count.svg" alt ="Loading">
+
+<br />
+<br />
