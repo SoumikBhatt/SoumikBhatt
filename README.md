@@ -31,13 +31,13 @@ Android Application Developer by profession. A Flutter Enthusiast.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SoumikBhatt&" alt="SoumikBhatt"/></p>
 
-<br />
+<!-- <br />
 <br />
 
 
 **Visitors Count**
 
-<img align="left" src = "https://profile-counter.glitch.me/SoumikBhatt/count.svg" alt ="Loading">
+<img align="left" src = "https://profile-counter.glitch.me/SoumikBhatt/count.svg" alt ="Loading"> -->
 
 <br />
 <br />
