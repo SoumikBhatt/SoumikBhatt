@@ -26,24 +26,32 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
 
--->
+
 <br />
 <br />
 
 ![](https://github-readme-stats.vercel.app/api?username=SoumikBhatt&count_private=true&show_icons=true&theme=radical)
+-->
 
+
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SoumikBhatt&count_private=true&show_icons=true&locale=en&theme=vue-dark&background=000000" alt="SoumikBhatt" />
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SoumikBhatt&theme=vue-dark)](https://git.io/streak-stats)
+
+<!--
 <br />
 <br />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SoumikBhatt&" alt="SoumikBhatt"/></p>
+-->
 
-<!-- <br />
+<br />
 <br />
 
 
 **Visitors Count**
 
-<img align="left" src = "https://profile-counter.glitch.me/SoumikBhatt/count.svg" alt ="Loading"> -->
+<img align="left" src = "https://profile-counter.glitch.me/SoumikBhatt/count.svg" alt ="Loading">
 
 <br />
 <br />
