@@ -2,7 +2,9 @@
 ```yaml
 -Who am I?:
          - Name: Soumik Bhattacharjee
+         - Pronouns: He, Him
          - Profession: Software Engineer (Android) @ NybSys
+         - Exploring: Flutter & iOS
          - Lives in: Dhaka
          - Hometown: Moulvibazar, Sylhet
 
