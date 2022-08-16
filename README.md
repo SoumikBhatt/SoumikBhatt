@@ -4,7 +4,8 @@
          - Name: Soumik Bhattacharjee
          - Pronouns: He, Him
          - Profession: Software Engineer (Android) @ NybSys
-         - Exploring: Flutter & iOS
+         - Expertise: Native Android & Flutter
+         - Exploring: Native iOS & Ionic
          - Lives in: Dhaka
          - Hometown: Moulvibazar, Sylhet
 
