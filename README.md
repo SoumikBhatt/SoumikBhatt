@@ -7,8 +7,8 @@
 val SoumikBhatt = Developer().apply {
     about {
         name = "Soumik Bhattacharjee"
-        company = "NybSys Inc."
-        role = "Software Engineer (Android)"
+        company = "Brain Station 23"
+        role = "Senior Software Engineer (Mobile)"
     }
     tech("Kotlin", "Java", "Dart", "Flutter")
     links {
